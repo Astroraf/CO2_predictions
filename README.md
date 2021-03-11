@@ -1,5 +1,6 @@
 # CO2_predictions 
 
+#Looking to the Skies:
 ## A Time Series Study Using Weekly CO2 Measurements
 Authors: [Jiji Craynock](https://github.com/DataOnATangent) & [Rafael Ferreira](https://github.com/Astroraf)
 
