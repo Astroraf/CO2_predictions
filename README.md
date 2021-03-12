@@ -48,11 +48,11 @@ We also found that are our data was highly affected by seasonality. May is the m
 
 Due to the seasonality found in the data we needed to account for this when creating our baseline ARMA model. In order to do this we used differencing to achieve stationarity. We also chose to test ARIMA and SARIMA models which are able to account for trends and/or seasonality with varying success. We tested them each model on two or three different parameters which were discovered thru the use of a PACF chart or gridsearch.
 
-<p align="center"><img width="900" height="400" src="/images/all_models_combined.png" alt="all_models"></p> 
+<p align="center"><img width="900" height="400" src="/images/all_models.png" alt="all_models"></p> 
 
 In the end, we decided to use AIC as our key metric. AIC is particularly valuable for time series, because a time series analysis' most valuable data is often the most recent, which is stuck in the validation and test sets. Using this metric we determined that our second ARIMA was the best fit for our data (left) and indeed, as can be seen below on the right, it provides us the predictions that appear to fit well with the data preceeds it. Unfortunately, this is not good news for most of us who currently inhabit this planet.
 
-<p align="center"><img width="700" height="300" src="/images/model_y_pred.png" alt="model_and_prediction"></p> 
+<p align="center"><img width="700" height="300" src="/images/myp.png" alt="model_and_prediction"></p> 
 
 
 ## Conclusion and Next Steps
