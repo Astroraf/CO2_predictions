@@ -38,11 +38,11 @@ By now most of us realize that rising CO2 levels are the main issue of climate c
 
 ## Findings
 
-The first step in our project was to explore our dataset. What we found echoed what we already knew to be true from years of warning by the scientific, that CO2 levels are rising year over year and have reached are currently in the 410s. This is a 20% increase over levels in 1974 and higher than it has ever been in earth's history. 
+The first step in our project was to explore our dataset. What we found echoed what we already knew to be true from years of warning by the scientific community, that CO2 levels are rising year over year and have reached levels exceeding 410 ppm. This is a 20% increase over levels in 1974 and higher than it has ever been in earth's history. 
 
 <p align="center"><img width="900" height="300" src="/images/rainbow.png" alt="rainbowyoy"></p> 
 
-We also found that are our data was highly affected by seasonality. May is the month that most frequently has the highest CO2 emissions. We have learned that in the northern fall, winter, and early spring, plants, and soils give off CO2, causing levels to rise through May. The continued increase in CO2 and the seasonal cycle are the main features of what is known as the Keeling Curve. 
+We also found that are our data was highly affected by seasonality. May is the month that most frequently has the highest CO2 emissions. We have learned that in the northern fall, winter, and early spring, plants, and soils give off CO2, causing levels to rise through out May. The continued increase in CO2 and the seasonal cycle are the main features of what is known as the Keeling Curve. 
 
 <p align="center"><img width="400" height="300" src="images/monthsdist.png" alt="month_distribution"></p>  
 
